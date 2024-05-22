@@ -39,7 +39,7 @@ brew install gcc
 `{version}`はインストールした`gcc`のバージョン
 ```sh
 ln -s /usr/local/bin/gcc-{version} /usr/local/gcc
-ln -s /usr/local/bin/g++-{version} /usr/localg++
+ln -s /usr/local/bin/g++-{version} /usr/local/g++
 ```
 
 ## Last Step
