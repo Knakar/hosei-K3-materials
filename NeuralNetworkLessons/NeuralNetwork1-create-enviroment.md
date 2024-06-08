@@ -10,15 +10,12 @@ wsl.exe install -d Ubuntu
 VSCodeもしくはJetBrians Fleetを立ち上げる
 WSLを選択し起動
 ### FleetでWSL(ubuntu)に接続
-!()[https://resources.jetbrains.com/help/img/fleet/1.35/f-wsl-1.png]
+![](https://resources.jetbrains.com/help/img/fleet/1.35/f-wsl-1.png)
 
 Pless`Ctrl+Shift+A`and input `terminal`
 then, Select `New Terminal Tool`
 
-### Fleetのおすすめ設定
-設定を開き，Select the **Enable Vim Emulation** checkbox
 
-!()[https://resources.jetbrains.com/help/img/fleet/1.35/fleet_enable_vim_emulation.png]
 
 
 ## Pythonのインストール(WSL, Ubuntu)
